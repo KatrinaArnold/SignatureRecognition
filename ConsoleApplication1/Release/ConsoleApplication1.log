@@ -1,0 +1,32 @@
+﻿  anyoption.cpp
+..\..\..\..\..\Desktop\SigRecNN-master\anyoption.cpp(131): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\ucrt\string.h(136): note: see declaration of 'strcpy'
+..\..\..\..\..\Desktop\SigRecNN-master\anyoption.cpp(280): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\ucrt\string.h(136): note: see declaration of 'strcpy'
+..\..\..\..\..\Desktop\SigRecNN-master\anyoption.cpp(850): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\ucrt\string.h(136): note: see declaration of 'strcpy'
+..\..\..\..\..\Desktop\SigRecNN-master\anyoption.cpp(865): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\ucrt\string.h(136): note: see declaration of 'strcpy'
+..\..\..\..\..\Desktop\SigRecNN-master\anyoption.cpp(880): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\ucrt\string.h(136): note: see declaration of 'strcpy'
+..\..\..\..\..\Desktop\SigRecNN-master\anyoption.cpp(895): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\ucrt\string.h(136): note: see declaration of 'strcpy'
+..\..\..\..\..\Desktop\SigRecNN-master\anyoption.cpp(957): warning C4244: '=': conversion from 'std::streamoff' to 'int', possible loss of data
+  BackPropNN.cpp
+  BMPextra.cpp
+  cli.cpp
+  Database.cpp
+..\..\..\..\..\Desktop\SigRecNN-master\Database.cpp(135): warning C4996: 'chdir': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _chdir. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\ucrt\direct.h(101): note: see declaration of 'chdir'
+..\..\..\..\..\Desktop\SigRecNN-master\Database.cpp(147): warning C4996: 'chdir': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _chdir. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\ucrt\direct.h(101): note: see declaration of 'chdir'
+  EasyBMP.cpp
+..\..\..\..\..\Desktop\SigRecNN-master\EasyBMP.cpp(994): warning C4101: 'ZeroWORD': unreferenced local variable
+  NeuralNet.cpp
+  Sig.cpp
+  Generating code
+c:\users\ecslogon\desktop\sigrecnn-master\neuralnet.cpp(141): warning C4700: uninitialized local variable 'temp' used
+c:\users\ecslogon\desktop\sigrecnn-master\database.cpp(132): warning C4700: uninitialized local variable 'buf' used
+  All 763 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  ConsoleApplication1.vcxproj -> c:\users\ecslogon\documents\visual studio 2017\Projects\ConsoleApplication1\Release\ConsoleApplication1.exe

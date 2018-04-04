@@ -1,0 +1,16 @@
+﻿  anyoption.cpp
+..\..\..\..\..\Desktop\SigRecNN-master\anyoption.cpp(1175): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  BackPropNN.cpp
+..\..\..\..\..\Desktop\SigRecNN-master\BackPropNN.cpp(336): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  BMPextra.cpp
+..\..\..\..\..\Desktop\SigRecNN-master\BMPextra.cpp(39): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  cli.cpp
+..\..\..\..\..\Desktop\SigRecNN-master\cli.cpp(214): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  Database.cpp
+..\..\..\..\..\Desktop\SigRecNN-master\Database.cpp(184): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  EasyBMP.cpp
+..\..\..\..\..\Desktop\SigRecNN-master\EasyBMP.cpp(1907): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  NeuralNet.cpp
+..\..\..\..\..\Desktop\SigRecNN-master\NeuralNet.cpp(193): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  Sig.cpp
+..\..\..\..\..\Desktop\SigRecNN-master\Sig.cpp(441): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
